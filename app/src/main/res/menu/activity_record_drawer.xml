@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_index"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="主頁面" />
+        <item
+            android:id="@+id/nav_trains_plan"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="訓練計畫" />
+
+        <item
+            android:id="@+id/nav_sport_record"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="運動紀錄" />
+
+    </group>
+
+    <item android:title="其他功能">
+        <menu>
+            <item
+                android:id="@+id/nav_Alice"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Alice" />
+            <item
+                android:id="@+id/nav_matches"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="火柴人" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="設定" />
+        </menu>
+    </item>
+
+</menu>

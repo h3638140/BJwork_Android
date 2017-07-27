@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BJwork</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">請輸入信箱</string>
+    <string name="prompt_password">請輸入密碼</string>
+    <string name="action_sign_in">登入 or 註冊</string>
+    <string name="action_sign_in_short">登入</string>
+    <string name="error_invalid_email">此信箱不可用</string>
+    <string name="error_invalid_password">密碼太短</string>
+    <string name="error_incorrect_password">您輸入的密碼不正確</string>
+    <string name="error_field_required">此欄位為避填欄位</string>
+    <string name="permission_rationale">"需要聯絡人的權限"
+    </string>
+    <string name="title_activity_record">運動紀錄</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">設定</string>
+    <string name="title_activity_maches">MachesActivity</string>
+</resources>
